@@ -1,0 +1,9 @@
+x86_64/*
+Results/*
+
+/*.mod
+
+*.[oc]
+*.dll
+
+*.py[oc]
